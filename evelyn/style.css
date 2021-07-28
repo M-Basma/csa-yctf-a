@@ -1,0 +1,9 @@
+* External CSS */
+/* Global Comment */
+body {{
+  background-color: blue;
+}
+address {
+  font-style: normal;
+  color: white
+}
